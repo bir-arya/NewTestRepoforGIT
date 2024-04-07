@@ -7,5 +7,9 @@ public class HelloWorld
         System.out.println("Hello");
         System.out.println("Hello");
 
+        //this is a demo class only
+        int a =60;
+        int b=50;
+
     }
 }
